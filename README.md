@@ -155,7 +155,7 @@ Note the image being used is the default image provided for GitHub Codespaces. I
 
 </details>
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Customize your codespace!</h2></summary>
 
 _Nice work! :tada: You created a codespace with a custom image!_
@@ -220,7 +220,7 @@ Next lets add some code to run upon creation of the codespace!
 
 </details>
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Personalize your codespace!</h2></summary>
 
 _Nicely done customizing your codespace!_ :partying_face:
