@@ -55,7 +55,7 @@ GitHub Codespaces is a development environment that's hosted in the cloud.
 
 </details>
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Create your first codespace and push code</h2></summary>
 
 _Welcome to "Develop code using GitHub Codespaces and Visual Studio Code"! :wave:_
@@ -108,7 +108,7 @@ git push
 
 </details>
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Add a custom image to your codespace!</h2></summary>
 
 _Nice work! :tada: You created your first codespace and pushed code using VS Code!_
